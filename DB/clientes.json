@@ -1,0 +1,2 @@
+{"_id":{"$oid":"622fbfb59acc6d3f8a37bb1e"},"nombre":"laura","apellido":"luna","empresa":"udemy","email":"correo@correo.com","telefono":"123456789","__v":0}
+{"_id":{"$oid":"622fc0719acc6d3f8a37bb22"},"nombre":"alexander","apellido":"zermeno","empresa":"Facebook","email":"correo3@correo.com","telefono":"070318","__v":0}

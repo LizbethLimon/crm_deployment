@@ -1,0 +1,4 @@
+{"_id":{"$oid":"623121c788d36b0244c795ca"},"nombre":"Camisa AngularJS","precio":302,"imagen":"si9H1kK_z.jpeg","__v":0}
+{"_id":{"$oid":"623121d188d36b0244c795cc"},"nombre":"Camisa React","precio":30,"imagen":"deq9cSmuB.jpeg","__v":0}
+{"_id":{"$oid":"623121e488d36b0244c795ce"},"nombre":"Camisa Redux","precio":25,"imagen":"ljKE5BcR5.jpeg","__v":0}
+{"_id":{"$oid":"623121f088d36b0244c795d0"},"nombre":"Camisa Node","precio":30,"imagen":"rsHPudRH9.jpeg","__v":0}
